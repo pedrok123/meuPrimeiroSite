@@ -1,0 +1,40 @@
+/* Estilos para o formulário de login */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+input[type="button"] {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+input[type="button"]:hover {
+    background-color: #0056b3;
+}
+
+/* Outros estilos, se necessário */
